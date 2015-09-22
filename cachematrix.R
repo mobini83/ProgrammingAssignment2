@@ -2,7 +2,7 @@
 ## that can cache its inverse. The function cacheSolve computes 
 ## the inverse of the object created by the makeCacheMatrix.
 
-## this function creates
+## this function creates an object 
 
 makeCacheMatrix <- function(x = matrix()) {
 
